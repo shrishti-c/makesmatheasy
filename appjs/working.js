@@ -23,14 +23,6 @@ $("#clock").click(function(){
     closenav();
     clearall();
 });
-<<<<<<< HEAD
-$("#wag").click(function () {
-    openit("#wags");
-    closenav();
-    clearall();
-});
-||||||| 7f794d2
-=======
 $("#armnumbtn").click(function(){
     openit("#armnum");
     closenav();
@@ -82,7 +74,6 @@ $("#wag").click(function () {
     closenav();
     clearall();
 });
->>>>>>> feac54b3b5aa3e3d5a459bba647b418a389f6d2e
 $("#midrangebtn").click(function () {
     openit("#midrange");
     closenav();
@@ -100,21 +91,17 @@ $("#bilinearbtn").click(function(){
     closenav();
     clearall();
 });
-<<<<<<< HEAD
 $("#madc").click(function(){
     openit("#madcs");
     closenav();
     clearall();
 });
-||||||| 7f794d2
-=======
 // Krishnamurthy Number
 $("#krishnumbtn").click(function(){
     openit("#krishnum");
     closenav();
     clearall();
 });
->>>>>>> feac54b3b5aa3e3d5a459bba647b418a389f6d2e
 $("#manhat").click(function(){
     openit("#manhats");
     closenav();
